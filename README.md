@@ -23,7 +23,7 @@ to fill that code in.
 
 1. Click the extension's toolbar icon.
 2. Click **Connect Gmail** and sign in / grant access.
-3. That's it — it'll check for new codes about once a minute, or click
+3. That's it, it'll check for new codes about once a minute, or click
    **Check for a code now** any time.
 
 
