@@ -26,12 +26,4 @@ to fill that code in.
 3. That's it — it'll check for new codes about once a minute, or click
    **Check for a code now** any time.
 
-## Possible improvements
 
-- Filter by sender/subject keywords you trust (e.g. only look at emails
-  from senders containing "noreply").
-- Mark messages as read once a code has been used.
-- Support multiple codes found in one poll (currently shows the first
-  one found).
-- Use Gmail push notifications (Pub/Sub) instead of polling for
-  near-instant alerts.
